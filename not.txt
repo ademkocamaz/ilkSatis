@@ -1,0 +1,15 @@
+- Başlık
+- Açıklama
+- Şehir
+- Fiyat
+
+- Önizleme
+	* Başlık
+	* Fiyat
+	* Şehir
+
+Tek Resim olacak.
+
+- Kullanıcı
+	* İsim
+	* Telefon
